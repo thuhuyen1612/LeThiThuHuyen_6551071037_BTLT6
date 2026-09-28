@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Downloads\BaiTapChuong5\BaiTapChuong5\Cau5_FormBanVe\bin\Debug\net8.0-windows\Cau5_FormBanVe.exe
+C:\Users\ADMIN\Downloads\BaiTapChuong5\BaiTapChuong5\Cau5_FormBanVe\bin\Debug\net8.0-windows\Cau5_FormBanVe.deps.json
+C:\Users\ADMIN\Downloads\BaiTapChuong5\BaiTapChuong5\Cau5_FormBanVe\bin\Debug\net8.0-windows\Cau5_FormBanVe.runtimeconfig.json
+C:\Users\ADMIN\Downloads\BaiTapChuong5\BaiTapChuong5\Cau5_FormBanVe\bin\Debug\net8.0-windows\Cau5_FormBanVe.dll
+C:\Users\ADMIN\Downloads\BaiTapChuong5\BaiTapChuong5\Cau5_FormBanVe\bin\Debug\net8.0-windows\Cau5_FormBanVe.pdb
+C:\Users\ADMIN\Downloads\BaiTapChuong5\BaiTapChuong5\Cau5_FormBanVe\obj\Debug\net8.0-windows\Cau5_FormBanVe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\BaiTapChuong5\BaiTapChuong5\Cau5_FormBanVe\obj\Debug\net8.0-windows\Cau5_FormBanVe.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\BaiTapChuong5\BaiTapChuong5\Cau5_FormBanVe\obj\Debug\net8.0-windows\Cau5_FormBanVe.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\BaiTapChuong5\BaiTapChuong5\Cau5_FormBanVe\obj\Debug\net8.0-windows\Cau5_FormBanVe.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\BaiTapChuong5\BaiTapChuong5\Cau5_FormBanVe\obj\Debug\net8.0-windows\Cau5_FormBanVe.dll
+C:\Users\ADMIN\Downloads\BaiTapChuong5\BaiTapChuong5\Cau5_FormBanVe\obj\Debug\net8.0-windows\refint\Cau5_FormBanVe.dll
+C:\Users\ADMIN\Downloads\BaiTapChuong5\BaiTapChuong5\Cau5_FormBanVe\obj\Debug\net8.0-windows\Cau5_FormBanVe.pdb
+C:\Users\ADMIN\Downloads\BaiTapChuong5\BaiTapChuong5\Cau5_FormBanVe\obj\Debug\net8.0-windows\Cau5_FormBanVe.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\BaiTapChuong5\BaiTapChuong5\Cau5_FormBanVe\obj\Debug\net8.0-windows\ref\Cau5_FormBanVe.dll
+C:\Users\ADMIN\Downloads\BaiTapChuong5\BaiTapChuong5\Cau5_FormBanVe\obj\Debug\net8.0-windows\Cau5_For.2F37AC6D.Up2Date

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cau6_NoteManager/1.0.0": {
+        "runtime": {
+          "Cau6_NoteManager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cau6_NoteManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
